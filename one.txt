@@ -1,2 +1,3 @@
 LOLOL
 1. Jest to moj pierwszy dzien pracy z Gitem. Podoba mi się  :D
+2. Git to najfajniejsze repozytorium na świecie - na pewno tak jest :)
